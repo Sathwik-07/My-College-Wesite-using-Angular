@@ -12,16 +12,16 @@ describe('AppComponent', () => {
     expect(app).toBeTruthy();
   });
 
-  it(`should have as title 'My-College-Website'`, () => {
+  it(`should have as title 'SBIT-COLLEGE-WEBSITE'`, () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.componentInstance;
-    expect(app.title).toEqual('My-College-Website');
+    expect(app.title).toEqual('SBIT-COLLEGE-WEBSITE');
   });
 
   it('should render title', () => {
     const fixture = TestBed.createComponent(AppComponent);
     fixture.detectChanges();
     const compiled = fixture.nativeElement as HTMLElement;
-    expect(compiled.querySelector('.content span')?.textContent).toContain('My-College-Website app is running!');
+    expect(compiled.querySelector('.content span')?.textContent).toContain('SBIT-COLLEGE-WEBSITE app is running!');
   });
 });

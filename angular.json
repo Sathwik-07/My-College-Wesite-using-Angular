@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/my-college-website",
+            "outputPath": "dist",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": [
@@ -87,12 +87,20 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap-theme.min.css",
+              "node_modules/bootstrap/dist/css/bootstrap-bootsrap-theme.css",
+              "node_modules/bootstrap/dist/css/bootstrap.css",
+
               "src/styles.css"
+
             ],
             "scripts": []
           }
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "8a8b4f41-b82f-4bbd-bae3-c8e205ee9a01"
   }
 }
