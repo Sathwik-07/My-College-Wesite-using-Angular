@@ -19,13 +19,10 @@
 pp Image 2023-09-05 at 9 17 50 PM](https://github.com/Sathwik-07/My-College-Wesite-using-Angular/assets/130444732/d8d72669-9f57-4a07-9519-76f720d91225)
 
 
-
-![Screenshot (115)](https://github.com/Sathwik-07/My-College-Wesite-using-Angular/assets/130444732/0ff3ffbf-69b0-44ed-a0dc-48efc0ff91d7)
-
+![Screenshot (113)](https://github.com/Sathwik-07/My-College-Wesite-using-Angular/assets/130444732/c38408a6-4be6-48ff-b3e3-8a103fb75c03)
 
 
-![Screenshot (113)](https://github.com/Sathwik-07/My-College-Wesite-using-Angular/assets/130444732/7b037e70-181d-4d83-b4ca-e9ebaa371338)
-
+![Screenshot (115)](https://github.com/Sathwik-07/My-College-Wesite-using-Angular/assets/130444732/41cc1532-e794-4b39-b4e6-29073cfc3383)
 
 
 ![Screenshot (116)](https://github.com/Sathwik-07/My-College-Wesite-using-Angular/assets/130444732/e97c4a41-4e55-4ada-b790-8786cad232c9)
