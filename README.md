@@ -39,6 +39,14 @@ pp Image 2023-09-05 at 9 17 50 PM](https://github.com/Sathwik-07/My-College-Wesi
 ![Screenshot (119)](https://github.com/Sathwik-07/My-College-Wesite-using-Angular/assets/130444732/2b2da4f0-c6da-497d-ae09-f28acd1b33cc)
 
 
+![Screenshot (130)](https://github.com/Sathwik-07/My-College-Wesite-using-Angular/assets/130444732/8acdf4e3-1256-4fb1-a2c7-71b73b532b84)
+
+
+
+![Screenshot (131)](https://github.com/Sathwik-07/My-College-Wesite-using-Angular/assets/130444732/f35fe42c-cad1-41e0-8904-6215768e5b16)
+
+
+
 
 
 
