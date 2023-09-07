@@ -1,6 +1,5 @@
-# My-College-Website-Using-Angular
 
-My name is Sathwik.I developed this website using Angular version 16.2.1.
+My name is Challa Sathwik.I developed this website using Angular version 16.2.1.
 
 
 ## Output Screenshots
