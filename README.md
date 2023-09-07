@@ -5,6 +5,9 @@
 
 # Live Link:  https://sbit-college-website.firebaseapp.com/
 
+![Screenshot (133)](https://github.com/Sathwik-07/My-College-Wesite-using-Angular/assets/130444732/30aac32d-5cca-4bcd-86e6-40f80d082bf6)
+
+
 
 
 # Output Screenshots
