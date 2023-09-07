@@ -3,8 +3,7 @@
 
 
 
-# Project Live Link: 
-https://sbit-college-website.firebaseapp.com/
+# Live Link:  https://sbit-college-website.firebaseapp.com/
 
 
 
