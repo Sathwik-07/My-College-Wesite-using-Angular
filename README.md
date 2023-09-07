@@ -55,22 +55,20 @@ pp Image 2023-09-05 at 9 17 50 PM](https://github.com/Sathwik-07/My-College-Wesi
 
 ## Steps to Run this Project (Download my Code)
 
+(1) Download my code
 
-(1) Instal node js 
+(2) Instal node js in your computer/laptop
 
-(2) Open any Ide like Vs code or Web Strom
+(2) Download and open any Ide like Vs code or Web Strom
 
 (3) Open the terminal and type npm install -g @angular/cli 
 
-(4) next type ng new <project-name>
+(4) Open downloaded code folder 
 
 (5) Navigate to the project folder using cd <project folder directory path>
 
 (6) Type the command ng serve -o  to open this website in the browser
 
-(7) Edit the component and You can add your own components as of your wish 
-
-(8) Write html code,Css code and Typescript code as of your wish
 
 
 ## List of Components
