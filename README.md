@@ -1,43 +1,28 @@
 
 # Hai! My name is  Challa Sathwik. I developed this website using Angular version 16.2.1.
 
-
 # Project Live Link:https://sbit-college-website.firebaseapp.com/
-
 
 # Output Screenshots
 
-
 ![Screenshot (122)](https://github.com/Sathwik-07/My-College-Wesite-using-Angular/assets/130444732/90f8b49b-3a4c-406e-a2be-815c2862227b)
 
-
 ![WhatsApp Image 2023-09-05 at 9 17 51 PM](https://github.com/Sathwik-07/My-College-Wesite-using-Angular/assets/130444732/149367b0-dec5-4d12-b685-94d78a2d99be)
-
 
 
 ![WhatsA![Uploading Screenshot (111).png…]()
 pp Image 2023-09-05 at 9 17 50 PM](https://github.com/Sathwik-07/My-College-Wesite-using-Angular/assets/130444732/d8d72669-9f57-4a07-9519-76f720d91225)
 
-
-
 ![Screenshot (115)](https://github.com/Sathwik-07/My-College-Wesite-using-Angular/assets/130444732/41cc1532-e794-4b39-b4e6-29073cfc3383)
-
-
 
 
 ![Screenshot (132)](https://github.com/Sathwik-07/My-College-Wesite-using-Angular/assets/130444732/df5025ef-d2b6-4eca-b9cf-d27f683f153a)
 
 
-
-
-
 ![Screenshot (129)](https://github.com/Sathwik-07/My-College-Wesite-using-Angular/assets/130444732/5ee173a3-670a-4873-a9ef-0e7255e9789b)
 
 
-
 ![Screenshot (118)](https://github.com/Sathwik-07/My-College-Wesite-using-Angular/assets/130444732/dbd47e4d-bb6d-40ac-9937-fd2241d11c46)
-
-
 
 
 ![Screenshot (119)](https://github.com/Sathwik-07/My-College-Wesite-using-Angular/assets/130444732/2b2da4f0-c6da-497d-ae09-f28acd1b33cc)
@@ -60,15 +45,15 @@ pp Image 2023-09-05 at 9 17 50 PM](https://github.com/Sathwik-07/My-College-Wesi
 
 (2) Instal node js in your computer/laptop
 
-(2) Download and open any Ide like Vs code or Web Strom
+(3) Download and open any Ide like Vs code or Web Strom
 
-(3) Open the terminal and type npm install -g @angular/cli 
+(4) Open the terminal and type npm install -g @angular/cli 
 
-(4) Open downloaded code folder 
+(5) Open downloaded code folder 
 
-(5) Navigate to the project folder using cd <project folder directory path>
+(6) Navigate to the project folder using cd <project folder directory path>
 
-(6) Type the command ng serve -o  to open this website in the browser
+(7) Type the command ng serve -o  to open this website in the browser
 
 
 
