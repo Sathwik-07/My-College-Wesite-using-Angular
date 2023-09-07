@@ -168,7 +168,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 
 ## Build
 
-Run `ng build` command to produce the project files as output in the production mode . The build artifacts will be stored in the `dist/` directory.
+use ng build --prod --base-href=/My-College-Website-using-Angular/ command for building in production
 
 
 ## Running unit tests
